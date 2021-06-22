@@ -9,6 +9,3 @@
 2. specify voter address and id in ./scripts/gov-create-reg.js and run `truffle exec ./scripts/gov-create-reg.js`
 
 3. run `npm start` to start react app
-# voting
-# voting
-# voting
