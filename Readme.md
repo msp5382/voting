@@ -2,7 +2,7 @@
 
 ## for learning dapp
 
-(screenshot)[./screenshot.png]
+[screenshot](./screenshot.png)
 
 1. run `truffle compile` and `truffle migrate` to run and migrate contracts
 
